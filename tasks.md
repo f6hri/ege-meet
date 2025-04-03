@@ -1,1 +1,1 @@
-[] Projenin tanımı ve proje geliştirme süreçlerini belirle -> project.md
+[ ] Projenin tanımı ve proje geliştirme süreçlerini belirle -> project.md
