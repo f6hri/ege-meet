@@ -84,7 +84,7 @@ Bu proje tahmini 3 ay ( 90 gün ) içinde tamamlanabilir şekilde planlanmışt�
 
 ---
 
-## 🔗 Figma Tasarımı
+## 🔗 Gerekli Tasarım ve Template
 
 UI Kit ( 📱 Mobil ): **Event Booking App- EventHub (Community)**  
 Figma Link: [Figma UI Kit](https://www.figma.com/design/OlwXrrLgiJR5UqcwDOgdAN/Event-Booking-App--EventHub-(Community)?node-id=704-4802&p=f&t=sIJVLgjV1qpPNjMB-0)
