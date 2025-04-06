@@ -75,18 +75,9 @@ Bu doküman, UI Kit'in nasıl kullanılacağı, tasarımı nasıl doğru okuyup 
 ### 🔲 Button & Input
 
 - 4 tip buton: düz, ikonlu, sadece ikon, disabled
-- Textbox ve dropdown bileşenleri hazır durumda
 - Yazı boyutları, padding ve corner-radius değerleriyle birlikte tanımlanmış
 
----
-
-## ⚙️ iOS System Default Rehberi
-
-UI Kit içerisinde yer alan bazı ekranlar **iOS native davranışları** için örneklenmiştir.Bunları incelerken:
-
-- Navigation yapısına dikkat et (sol/orta/sağ bölge)
-- Segment, checkbox, radio, switch bileşenlerini iOS’a uygun stillerle kodla
-- iOS keyboard ve emoji UI’leri referans amaçlıdır
+####
 
 ---
 
